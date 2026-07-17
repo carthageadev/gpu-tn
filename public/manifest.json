@@ -1,0 +1,16 @@
+{
+  "name": "GPU.tn — Cloud GPU Rental and LLM Hosting",
+  "short_name": "GPU.tn",
+  "description": "Rent cloud GPU capacity and managed LLM endpoints for Gemma 4 and Qwen 3.6.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090b",
+  "theme_color": "#07090b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
